@@ -9,7 +9,7 @@ The content of the folders is as follows:
   * `Banner` contains the logo that is shown on the top screen in the 3DS home menu (see [Editing The Banner]())
   * `Font` contains the `.bcfnt` fonts that are used in game (see [Editing .bcfnt Files]())
   * `Layout` contains `.arc` archives storing `.bclim` images for icons, pictures, frames, etc. (see [Editing .arc Files]())
-  * `Message` contains `.binJ` files storing texts that can be edited using [BinJ Editor](https://github.com/Ich73/BinJEditor)
+  * `Message` contains `.binJ` files storing texts that can be edited using [BinJ Editor](https://github.com/Ich73/BinJEditor) (see [Editing .binJ Files]())
   * `NaviMap` contains `.arc` archives storing `.bclim` images for icons, pictures, frames, etc. (see [Editing .arc Files]())
 
 The current progress for each language can be found here:
@@ -20,5 +20,5 @@ The current progress for each language can be found here:
   * `IT` [Italian]()
 
 ## Setup / Installation
-If you are interested in installing a release on your 3DS read [Installing Releases]().  
-If you want to contibute to this translation or want the install the latest version read [Developing Translations]().
+If you are interested in installing a release on your 3DS read [Installing Releases](https://github.com/Ich73/DQM2-FanTranslation/wiki/Installing-Releases).  
+If you want to contibute to this translation or want the install the latest version read [Developing Translations](https://github.com/Ich73/DQM2-FanTranslation/wiki/Developing-Translations).
