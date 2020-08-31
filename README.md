@@ -21,4 +21,4 @@ The current progress for each language can be found here:
 
 ## Setup / Installation
 If you are interested in installing a release on your 3DS read [Installing Releases](https://github.com/Ich73/DQM2-FanTranslation/wiki/Installing-Releases).  
-If you want to contibute to this translation or want the install the latest version read [Developing Translations](https://github.com/Ich73/DQM2-FanTranslation/wiki/Developing-Translations).
+If you want to contibute to this translation or want to install the latest version read [Developing Translations](https://github.com/Ich73/DQM2-FanTranslation/wiki/Developing-Translations).
