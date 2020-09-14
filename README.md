@@ -21,5 +21,6 @@ The current progress for each language can be found here:
   * `IT` [Italian](https://github.com/Ich73/DQM2-FanTranslation/wiki/Progress-IT-(Italian))
 
 ## Setup / Installation
-If you are interested in installing a release on your 3DS read [Installing Releases](https://github.com/Ich73/DQM2-FanTranslation/wiki/Installing-Releases).  
-If you want to contribute to this translation or want to install the latest version read [Developing Translations](https://github.com/Ich73/DQM2-FanTranslation/wiki/Developing-Translations).
+If you are interested in installing a release as a `.cia` file read [Installing Releases](https://github.com/Ich73/DQM2-FanTranslation/wiki/Installing-Releases).  
+If you are interested in installing the latest updates using Luma's LayeredFS Patching read [Installing LayeredFS](https://github.com/Ich73/DQM2-FanTranslation/wiki/Installing-LayeredFS).  
+If you want to contribute to this translation read [Developing Translations](https://github.com/Ich73/DQM2-FanTranslation/wiki/Developing-Translations).
