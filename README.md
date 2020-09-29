@@ -1,5 +1,5 @@
 # DQM2-FanTranslation
-This repository is a place to develop fan translations for _Dragon Quest Monsters 2: Iru and Luca's Marvelous Mysterious Key_ for several different languages. It contains only `.xdelta` and `.patJ` patch files so no copyrighted material is shared.  
+This repository is a place to develop fan translations for _Dragon Quest Monsters 2: Cobi and Tara's Marvelous Mysterious Key_ for several different languages. It contains only `.xdelta` and `.patJ` patch files so no copyrighted material is shared.  
 
 ## Structure
 The folder structure in this repository is based on the structure of extracted `.cia` or `.3ds` files.  
