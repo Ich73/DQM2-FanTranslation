@@ -3,4 +3,5 @@
 !/.gitignore
 !/README.md
 !*.patJ
+!*.patE
 !*.xdelta
