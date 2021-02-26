@@ -1,0 +1,73 @@
+
+{
+	"SEP": "E31B",
+	"XDELTA":
+	{
+		"Banner": [".bcwav", ".cbmd", ".cgfx"],
+		"ExeFS": [".bin"],
+		"Manual": [".bcma"],
+		"Battle": [".bcres", ".nut"],
+		"Debug": [".bin"],
+		"Effect": [".bcres"],
+		"Event": [".gz"],
+		"ExtSaveData": [".icn"],
+		"Field": [".bcres", ".nut", ".gz", ".xbb"],
+		"Flash": [".flb"],
+		"Font": [".bcfnt"],
+		"KeyImage": [".bclim"],
+		"Layout": [".arc", ".nut"],
+		"Menu": [".nut"],
+		"Menu3D": [".bcres", ".bcenv"],
+		"Model": [".bcres", ".bcenv", ".bcmdl", ".xbb"],
+		"MonsterIcon": [".bclim"],
+		"NaviMap": [".arc"],
+		"NetworkIcon": [".ctpk"],
+		"Npc": [".nut"],
+		"Param": [".bin", ".gz"],
+		"PartsIcon": [".bclim"],
+		"PresentCode": [".bin"],
+		"Test": [".txt", ".bin", ".nut", ".gz"],
+		"Title": [".bcres"],
+		"WiFi": [".nut"]
+	},
+	"PAT":
+	{
+		"Message": ["binJ", ".binJ", ".savJ", ".patJ"],
+		"Event": ["e", ".e", ".savE", ".patE"]
+	},
+	"PARENT":
+	{
+		"Banner": "ExtractedBanner",
+		"ExeFS": "ExtractedExeFS",
+		"Manual": "ExtractedManual",
+		"Battle": "ExtractedRomFS/data/Battle",
+		"Debug": "ExtractedRomFS/data/Debug",
+		"Effect": "ExtractedRomFS/data/Effect",
+		"Event": "ExtractedRomFS/data/Event",
+		"ExtSaveData": "ExtractedRomFS/data/ExtSaveData",
+		"Field": "ExtractedRomFS/data/Field",
+		"Flash": "ExtractedRomFS/data/Flash",
+		"Font": "ExtractedRomFS/data/Font",
+		"KeyImage": "ExtractedRomFS/data/KeyImage",
+		"Layout": "ExtractedRomFS/data/Layout",
+		"Menu": "ExtractedRomFS/data/Menu",
+		"Menu3D": "ExtractedRomFS/data/Menu3D",
+		"Message": "ExtractedRomFS/data/Message",
+		"Model": "ExtractedRomFS/data/Model",
+		"MonsterIcon": "ExtractedRomFS/data/MonsterIcon",
+		"NaviMap": "ExtractedRomFS/data/NaviMap",
+		"NetworkIcon": "ExtractedRomFS/data/NetworkIcon",
+		"Npc": "ExtractedRomFS/data/Npc",
+		"Param": "ExtractedRomFS/data/Param",
+		"PartsIcon": "ExtractedRomFS/data/PartsIcon",
+		"PresentCode": "ExtractedRomFS/data/PresentCode",
+		"Test": "ExtractedRomFS/data/Test",
+		"Title": "ExtractedRomFS/data/Title",
+		"WiFi": "ExtractedRomFS/data/WiFi"
+	},
+	"UPDATE_ACTIONS":
+	[
+		["rename-folder", ["Code", "ExeFS"]],
+		["delete-folder", "Code"]
+	]
+}
