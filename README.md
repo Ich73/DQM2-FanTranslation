@@ -9,11 +9,11 @@ Most foldernames consist of the basename of the folder and the locale of the tra
   
 The content of the folders is as follows:
   * `Banner` contains the logo that is shown on the top screen in the 3DS home menu (see [Editing the Banner](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-the-Banner))
-  * `ExeFS` contains the code of the game (see [Editing the Code](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-the-Code))
-  * `Event` contains `.e` files storing the cutscene and dialog texts that can be edited using [BinJ Editor](https://github.com/Ich73/BinJEditor) (see [Editing .e Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.e-Files))
+  * `ExeFS` contains the code of the game (see [Editing the Code](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-the-Code) and [Code Modifications](https://github.com/Ich73/DQM2-FanTranslation/wiki/Code-Modifications))
+  * `Event` contains `.e` files storing the cutscene and dialog texts (see [Editing .e Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.e-Files) and [Event Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Event-Files))
   * `Font` contains the `.bcfnt` fonts that are used in game (see [Editing .bcfnt Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.bcfnt-Files))
   * `Layout` contains `.arc` archives storing `.bclim` images for icons, pictures, frames, etc. (see [Editing .arc Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.arc-Files))
-  * `Message` contains `.binJ` files storing texts that can be edited using [BinJ Editor](https://github.com/Ich73/BinJEditor) (see [Editing .binJ Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.binJ-Files))
+  * `Message` contains `.binJ` files storing texts (see [Editing .binJ Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.binJ-Files) and [Message Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Message-Files))
   * `NaviMap` contains `.arc` archives storing `.bclim` images for icons, pictures, frames, etc. (see [Editing .arc Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.arc-Files))
 
 The current progress for each language can be found here:
