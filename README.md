@@ -9,7 +9,7 @@ Most foldernames consist of the basename of the folder and the locale of the tra
   
 The content of the folders is as follows:
   * `Banner` contains the logo that is shown on the top screen in the 3DS home menu (see [Editing the Banner](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-the-Banner))
-  * `Code` contains the code of the game (see [Editing the Code](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-the-Code))
+  * `ExeFS` contains the code of the game (see [Editing the Code](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-the-Code))
   * `Event` contains `.e` files storing the cutscene and dialog texts that can be edited using [BinJ Editor](https://github.com/Ich73/BinJEditor) (see [Editing .e Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.e-Files))
   * `Font` contains the `.bcfnt` fonts that are used in game (see [Editing .bcfnt Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.bcfnt-Files))
   * `Layout` contains `.arc` archives storing `.bclim` images for icons, pictures, frames, etc. (see [Editing .arc Files](https://github.com/Ich73/DQM2-FanTranslation/wiki/Editing-.arc-Files))
